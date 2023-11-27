@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "title": "Реплика чемпионского пояса",
+    "vendor_code": "1",
+    "description": "Точная копия чемпионского пояса UFC",
+    "price": 850,
+    "img": "https://cdn.shopify.com/s/files/1/0018/3081/3763/products/UFCGJB0016_E1_1000x.jpg?v=1649426583"
+  },
+  {
+    "id": "2",
+    "title": "Футболка Ислам Махачев",
+    "vendor_code": "2",
+    "description": "Футболка Ислам Махачев в стиле российского триколора",
+    "price": 35,
+    "img": "https://cdn.shopify.com/s/files/1/0018/3081/3763/products/UFCFMT7035Z_1000x.jpg?v=1666800360"
+  },
+  {
+    "id": "3",
+    "title": "Футболка Александр Волкановски",
+    "vendor_code": "3",
+    "description": "Футболка Alexander The Great Volkanovski",
+    "price": 35,
+    "img": "https://cdn.shopify.com/s/files/1/0018/3081/3763/products/Volkanovski-P4P-Champ-T-Shirt_1000x.png?v=1675784973"
+  },
+  {
+    "id": "4",
+    "title": "Футболка Хамзат Чимаев",
+    "vendor_code": "4",
+    "description": "Футболка Khamzat Borz Chimaev",
+    "price": 35,
+    "img": "https://cdn.shopify.com/s/files/1/0018/3081/3763/products/UFCFMT7021_1000x.jpg?v=1660823456"
+  },
+  {
+    "id": "5",
+    "title": "Подушка - хасбик",
+    "vendor_code": "5",
+    "description": "Подушка в стиле Хасбуллы Магомедова",
+    "price": 50,
+    "img": "https://cdn.shopify.com/s/files/1/0018/3081/3763/products/UFCFPL001200A_1000x.jpg?v=1666194755"
+  },
+  {
+    "id": "6",
+    "title": "Футболка Камару Усман",
+    "vendor_code": "6",
+    "description": "Футболка The Nigerian Nightmare",
+    "price": 30,
+    "img": "https://cdn.shopify.com/s/files/1/0018/3081/3763/products/Usman-Nightmare-Crest-T-Shirt_3_1000x.png?v=1678392164"
+  },
+  {
+    "id": "7",
+    "title": "Постер UFC",
+    "vendor_code": "7",
+    "description": "Постер - острые кулаки",
+    "price": 8,
+    "img": "https://cdn.shopify.com/s/files/1/0018/3081/3763/products/UFCGEM0001-copy_1000x.jpg?v=1655383607"
+  },
+  {
+    "id": "8",
+    "title": "Бутылка UFC",
+    "vendor_code": "8",
+    "description": "Из нержавеющей стали",
+    "price": 35,
+    "img": "https://cdn.shopify.com/s/files/1/0018/3081/3763/products/UFCGBV0024_1000x.jpg?v=1631538910"
+  },
+  {
+    "id": "9",
+    "title": "Тапочки UFC",
+    "vendor_code": "9",
+    "description": "Со специальным антискользящим покрытием",
+    "price": 30,
+    "img": "https://cdn.shopify.com/s/files/1/0018/3081/3763/products/UFCGLF0001_A_1000x.jpg?v=1637582210"
+  }
+]
